@@ -1,0 +1,11 @@
+# Visual Studio files
+.vs/
+*.exe
+*.obj
+*.pdb
+*.ipch
+
+# Temporary files
+*.tmp
+*.log
+*.bak
